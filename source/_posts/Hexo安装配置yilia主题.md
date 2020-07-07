@@ -1,7 +1,7 @@
 ---
 title: Hexo安装配置yilia主题
-date: 2019-06-06 10:13:12
-updated: 2019-06-07 06:35:22
+date: 2018-06-06 10:13:12
+updated: 2020-06-07 06:35:22
 tags: 静态博客搭建
 ---
 最后的效果可参考[本人博客](https://climbsnail.github.io)
